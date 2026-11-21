@@ -122,10 +122,4 @@ Multi-sensor integration.
 
 Improved power efficiency and backup.
 
-Project Documentation
 
-The detailed academic project report, circuit diagrams and supporting project material are available in this repository.
-
-Academic Project: B.E. Electronics & Communication Engineering
-Institution: Chandigarh College of Engineering & Technology, Panjab University
-Project Period: July 2024 – December 2024
