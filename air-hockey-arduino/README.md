@@ -1,7 +1,8 @@
-Air Hockey Using Arduino
+## Air Hockey Using Arduino
 
 An Arduino-based air hockey table. The Arduino Uno coordinates gameplay, while an air blower helps the puck glide, servo motors control paddle movement, and a 16×2 LCD displays scores and game information.
-Features
+
+## Features
 - Arduino Uno-based control
 - Air blower/fan for puck movement
 - Servo motors for paddle actuation
@@ -9,7 +10,7 @@ Features
 - 16×2 LCD for score display
 - Two-player gameplay
   
-Components
+## Components
 - Arduino Uno
 - 16×2 LCD
 - Servo motors / paddle actuators
@@ -18,11 +19,11 @@ Components
 - Puck, mallets, jumper wires, and power supply
 - Playing surface and table frame
   
-Software
+## Software
 - Arduino IDE
 - Arduino LiquidCrystal library
   
-LCD Connections
+## LCD Connections
 Example 4-bit connections from the project report:
 LCD pin	Arduino
 VSS / VDD	GND / 5V
@@ -32,10 +33,9 @@ E	Digital 11
 D4–D7	Digital 5, 4, 3, 2
 A / K	5V / GND (backlight)
 
-
 Verify all connections against your actual circuit before powering the project.
 
-Working
+## Working
 1. The blower sends air through holes in the playing surface to reduce puck friction.
 2. Players use mallets to hit the puck toward the opponent's goal.
 3. Arduino reads sensor and control inputs and coordinates the hardware.
