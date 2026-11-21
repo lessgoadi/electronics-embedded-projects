@@ -8,6 +8,7 @@ Features
 - Sensors for puck detection
 - 16×2 LCD for score display
 - Two-player gameplay
+  
 Components
 - Arduino Uno
 - 16×2 LCD
@@ -16,9 +17,11 @@ Components
 - Sensors and pushbuttons
 - Puck, mallets, jumper wires, and power supply
 - Playing surface and table frame
+  
 Software
 - Arduino IDE
 - Arduino LiquidCrystal library
+  
 LCD Connections
 Example 4-bit connections from the project report:
 LCD pin	Arduino
@@ -31,11 +34,13 @@ A / K	5V / GND (backlight)
 
 
 Verify all connections against your actual circuit before powering the project.
+
 Working
 1. The blower sends air through holes in the playing surface to reduce puck friction.
 2. Players use mallets to hit the puck toward the opponent's goal.
 3. Arduino reads sensor and control inputs and coordinates the hardware.
 4. The LCD displays scores and game information.
+   
 Setup
 1. Assemble the table, playing surface, goals, and frame.
 2. Install the blower, actuators, sensors, LCD, and controls.
