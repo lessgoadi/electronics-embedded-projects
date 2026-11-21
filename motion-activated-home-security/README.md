@@ -1,10 +1,10 @@
-Motion-Activated Home Security System Using Raspberry Pi
+## Motion-Activated Home Security System Using Raspberry Pi
 
-Project Overview
+## Project Overview
 
 This project focuses on developing a motion-activated home security system using Raspberry Pi, a PIR (Passive Infrared) motion sensor and a camera module. The system detects movement, triggers image/video capture and supports alert-based monitoring for enhanced home security.
 
-Project Objectives
+## Project Objectives
 
 Detect motion using a PIR sensor.
 
@@ -16,7 +16,7 @@ Enable alert-based notification and surveillance.
 
 Develop an affordable and customizable security prototype.
 
-Hardware Components
+## Hardware Components
 
 Raspberry Pi
 
@@ -32,7 +32,7 @@ Breadboard and Jumper Wires
 
 Optional Buzzer and LEDs
 
-Software & Technologies
+## Software & Technologies
 
 Python
 
@@ -58,7 +58,7 @@ Output Layer
 
 The system initiates image or video capture and supports notification and media storage functionality.
 
-Working Principle
+## Working Principle
 
 The system continuously monitors the surroundings using the PIR motion sensor.
 
@@ -70,7 +70,7 @@ Images or videos are captured and stored for review.
 
 Alert mechanisms can notify the user of detected activity.
 
-Technical Concepts
+## Technical Concepts
 
 Raspberry Pi GPIO interfacing
 
@@ -86,7 +86,7 @@ Linux-based computing
 
 IoT and remote monitoring concepts
 
-Reported Results
+## Reported Results
 
 According to the project report:
 
@@ -100,7 +100,7 @@ Notification delivery was reported within approximately 5–10 seconds, dependin
 
 A 24-hour continuous-operation test was reported.
 
-Limitations
+## Limitations
 
 False triggering due to environmental conditions.
 
@@ -110,11 +110,6 @@ Storage limitations for captured video.
 
 Limited low-light performance without suitable camera or IR support.
 
-Future Enhancements
-
-AI-based motion classification.
-
-Cloud-based media storage.
 
 Mobile application integration.
 
