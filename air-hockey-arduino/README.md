@@ -1,4 +1,5 @@
 Air Hockey Using Arduino
+
 An Arduino-based air hockey table. The Arduino Uno coordinates gameplay, while an air blower helps the puck glide, servo motors control paddle movement, and a 16×2 LCD displays scores and game information.
 Features
 - Arduino Uno-based control
